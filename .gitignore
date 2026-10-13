@@ -1,0 +1,16 @@
+# Środowiska wirtualne
+.venv/
+venv/
+env/
+
+# Cache Pythona
+__pycache__/
+*.py[cod]
+
+# Twoje katalogi wyjściowe / generowane
+report/
+
+# Śmieci systemowe i edytorów
+.DS_Store
+*.swp
+
